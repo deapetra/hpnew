@@ -1,0 +1,32 @@
+body{
+    background-image: url(img/background.png) ;
+}
+
+.div{
+    background-color: rgba(125, 24, 51);
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.kep{
+    width: 180px;
+    height: 180px;
+    border: orange solid 7px;
+}
+
+.kep2{
+    float: left;
+    width: 305px;
+    border: orange solid 7px;
+}
+   
+#szam{
+    float: left;
+    width: 60px;
+}
+
+#szam2{
+    float: left;
+    width: 60px;
+}
